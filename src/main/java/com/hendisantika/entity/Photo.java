@@ -9,7 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
-import java.awt.print.Book;
 
 /**
  * Created by IntelliJ IDEA.
