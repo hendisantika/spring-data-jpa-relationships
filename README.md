@@ -23,3 +23,4 @@ or
 psql -h localhost -p 5432 -U user -W my_db
 ```
 
+[Article Source link](https://medium.com/huawei-developers/database-relationships-in-spring-data-jpa-8d7181f50f60)
